@@ -1,0 +1,20 @@
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\bin\Debug\Kitaplık Veri Tabanı Access.exe.config
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\bin\Debug\Kitaplık Veri Tabanı Access.exe
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\bin\Debug\Kitaplık Veri Tabanı Access.pdb
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.csprojAssemblyReference.cache
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık_Veri_Tabanı_Access.Form1.resources
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık_Veri_Tabanı_Access.Properties.Resources.resources
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.csproj.GenerateResource.cache
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.csproj.CoreCompileInputs.cache
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.exe
+C:\Users\profe\source\repos\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.pdb
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\bin\Debug\Kitaplık Veri Tabanı Access.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\bin\Debug\Kitaplık Veri Tabanı Access.exe
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\bin\Debug\Kitaplık Veri Tabanı Access.pdb
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık_Veri_Tabanı_Access.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık_Veri_Tabanı_Access.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.exe
+C:\Users\profe\Desktop\Visual Projeler\Kitaplık Veri Tabanı Access\Kitaplık Veri Tabanı Access\obj\Debug\Kitaplık Veri Tabanı Access.pdb
